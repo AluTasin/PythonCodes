@@ -10,6 +10,8 @@ a = float(input("Enter first number: "))
 
 b = float(input("Enter second number: "))
 
+# this is a new line
+
 if a > b:
     print(a, "is greater")
 elif b > a:
