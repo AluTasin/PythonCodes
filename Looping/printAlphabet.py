@@ -8,7 +8,7 @@
 #     print(chr(i), end=" ")
 #
 
-
+#
 # i = 2
 #
 # while i <= 100:
@@ -16,11 +16,35 @@
 #     i = i+2
 
 
-n = int(input("Enter:"))
 
-start = 1
-end = 10
-increment = 1
+#
+#
+# multiplication table
+# #
+# n = int(input("Enter:"))
+#
+# start = 1
+# end = 10
+# increment = 1
+#
+# for i in range(start, end + 1, increment):
+#     print(i, 'x', n, '=', i * n)
+#
+#
+#
 
-for i in range(start, end + 1, increment):
-    print(i, 'x', n, '=', i * n)
+
+
+#
+# n = int(input("how many numbers: "))
+# max = -1
+#
+# for i in range(n):
+#     number = float(input())
+#     if i == 0:
+#         max = number
+#         continue
+#     if number > max:
+#         max = number
+#
+# print("largest: ", max)
